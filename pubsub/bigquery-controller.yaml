@@ -25,9 +25,9 @@ spec:
           value: projects/your-project/topics/your-topic
         # Change this to your project ID.
         - name: PROJECT_ID
-          value: xxx
+          value: xxxx
         # Change the following two settings to your dataset and table.
         - name: BQ_DATASET
-          value: xxx
+          value: xxxx
         - name: BQ_TABLE
           value: xxxx
