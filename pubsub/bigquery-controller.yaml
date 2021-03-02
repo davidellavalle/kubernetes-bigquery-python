@@ -22,7 +22,7 @@ spec:
           value: pubsub-to-bigquery
         # Change this to your pubsub topic
         - name: PUBSUB_TOPIC
-          value: xxxx
+          value: projects/your-project/topics/your-topic
         # Change this to your project ID.
         - name: PROJECT_ID
           value: xxx
